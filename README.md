@@ -1,4 +1,3 @@
 # MARIO MOVIE
 
 - Trailer
-* Movie
