@@ -84,7 +84,7 @@ header img{
     }
 }
 
-@media (max-width: 414px){
+@media (max-width: 500px){
     header img{
         width: 40px;
         margin-left: 45%;
