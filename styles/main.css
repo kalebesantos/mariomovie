@@ -67,10 +67,12 @@ main{
 
     .main-info div a{
         width: 50%;
+        font-size: 12px;
     }
 
     .main-info div button{
         width: 50%;
+        font-size: 12px;
     }
 
     .main-info div{
