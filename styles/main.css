@@ -43,7 +43,7 @@ main{
     border: solid 1px var(--green);
 }
 
-@media (max-width: 768px){
+@media (max-width: 1024px){
     .main-info{
         max-width: 600px;
         top: 500px;
