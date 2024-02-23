@@ -37,9 +37,3 @@ button:hover {
   height: 100vh;
   overflow: hidden;
 }
-
-@media screen and (min-width: 390px){
-  body{
-    overflow: hidden;
-  }
-}
