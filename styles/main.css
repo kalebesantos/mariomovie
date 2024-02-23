@@ -59,6 +59,7 @@ main{
     main{
         flex-direction: column;
         height: 100vh;
+        overflow: hidden;
     }
 
     .main-info p{
