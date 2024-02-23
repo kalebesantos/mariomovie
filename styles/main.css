@@ -54,3 +54,30 @@ main{
         width: 30%;
     }
 }
+
+@media screen and (min-width: 390px){
+    main{
+        flex-direction: column;
+    }
+
+    .main-info p{
+        font-size: 16px;
+        padding: 16px;
+    }
+
+    .main-info div a{
+        width: 50%;
+    }
+
+    .main-info div button{
+        width: 50%;
+    }
+
+    .main-info div{
+        margin: 16px;
+    }
+
+    main .mario{
+        display: none;
+    }
+}
