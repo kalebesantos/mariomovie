@@ -55,7 +55,7 @@ main{
     }
 }
 
-@media (max-width: 414px){
+@media (max-width: 500px){
     main{
         flex-direction: column;
     }
