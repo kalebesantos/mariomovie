@@ -58,6 +58,7 @@ main{
 @media screen and (min-width: 390px){
     main{
         flex-direction: column;
+        height: auto;
     }
 
     .main-info p{
